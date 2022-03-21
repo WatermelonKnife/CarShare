@@ -13,16 +13,6 @@
 
 3. 程序入口./operating/LoginOp.py
 
-#### 著者信息:
-
-author :     于锦阳
-
-studentID: 2019302740
-
-E-mail :      2362649580@qq.com
-
-Date :        2021/12/18
-
 #### 运行环境:
 
 python3.8 , PyQt5 , pymysql , hashlib
