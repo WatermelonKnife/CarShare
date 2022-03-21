@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="img">
+    <file>大学 (1).png</file>
+    <file>轿车，小汽车.png</file>
+    <file>太阳.png</file>
+    <file>小车，轿车.png</file>
+    <file>用户.png</file>
+    <file>d1160924ab18972b07f8caa0e8cd7b899f510a9e.png</file>
+    <file>backcar (2).jpg</file>
+    <file>c1 (2).jpg</file>
+    <file>c2 (2).jpg</file>
+    <file>c3 (2).jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon/搜索 (1).png</file>
+    <file>icon/添加.png</file>
+    <file>icon/拼车.png</file>
+    <file>icon/搜索.png</file>
+    <file>icon/查询.png</file>
+    <file>icon/车辆.png</file>
+    <file>icon/登录.png</file>
+    <file>icon/订单.png</file>
+    <file>icon/路线.png</file>
+    <file>icon/密码.png</file>
+    <file>icon/汽车.png</file>
+    <file>icon/删除.png</file>
+    <file>icon/司机-01.png</file>
+    <file>icon/退出.png</file>
+    <file>icon/修改.png</file>
+    <file>icon/用户名.png</file>
+    <file>icon/增加.png</file>
+    <file>icon/账户.png</file>
+    <file>icon/注册.png</file>
+  </qresource>
+</RCC>
